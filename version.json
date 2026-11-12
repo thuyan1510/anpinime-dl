@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.7.5",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.7.5/AnPinime-K670Pro.apk",
-  "changelog": "Bản cập nhật v1.7.5:\n- Ẩn hoàn toàn các tên miền mirror Aether, chuyển sang cơ chế quản lý tự động ngầm theo rentry.co/aetherdomains.\n- Đổi Server hiển thị danh sách các server tải phim thực tế của Aether (Febbox 4K, Showbox FHD, VidSrc, Insertunit, SmashyStream, GOmovies, FlixHQ) và chuyển nguồn phát tức thì.\n- Animation quét nguồn thời gian thực trên giao diện native của máy chiếu với badge server và thanh tiến trình.\n- Khắc phục triệt để hiện tượng màn hình đen ở một số bộ phim, tối ưu SurfaceView và tự động trích xuất nguồn đa embed."
+  "versionCode": 15,
+  "versionName": "1.8.0",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.8.0/AnPinime-K670Pro.apk",
+  "changelog": "Bản cập nhật v1.8.0:\n- Chuyển đổi hoàn toàn sang kiến trúc Native Aether Resolver 100%, không còn phụ thuộc WebView.\n- Kết nối và quét tự động qua hơn 10 nguồn scraper của Aether: Lul (1080p), Lil (1080p), Edge (Ly 1080p fMP4), Meridian (1080p), VidRock (1080p/720p), Shore (1080p), Tik (1080p), Tiki (360p), VFast (Supreme 4K, Euro, Prime 4K, Zenith), Filler.\n- Khắc phục triệt để lỗi màn hình đen / có tiếng mất hình bằng cấu hình header (Origin/Referer) và proxy m3u8 chuẩn cho từng máy chủ.\n- Tích hợp kho phụ đề Tiếng Việt và đa ngôn ngữ tự động từ OpenSubtitles và sub.vdrk.site.\n- Menu đổi server hiển thị các máy chủ tải phim thực tế của Aether, cho phép chuyển đổi nguồn phát tức thì."
 }
