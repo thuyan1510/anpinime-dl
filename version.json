@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.7.4",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.7.4/AnPinime-K670Pro.apk",
-  "changelog": "Bản cập nhật v1.7.4: Chuyển đổi Aether từ WebView sang luồng phát gốc ExoPlayer (Native Player), trích xuất tự động link video và danh sách phụ đề OpenSubtitles/Aether, loại bỏ triệt để hiện tượng đen hình/chỉ có tiếng, hỗ trợ AI dịch phụ đề Tiếng Việt trực tiếp trong trình phát máy chiếu."
+  "versionCode": 14,
+  "versionName": "1.7.5",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.7.5/AnPinime-K670Pro.apk",
+  "changelog": "Bản cập nhật v1.7.5:\n- Ẩn hoàn toàn các tên miền mirror Aether, chuyển sang cơ chế quản lý tự động ngầm theo rentry.co/aetherdomains.\n- Đổi Server hiển thị danh sách các server tải phim thực tế của Aether (Febbox 4K, Showbox FHD, VidSrc, Insertunit, SmashyStream, GOmovies, FlixHQ) và chuyển nguồn phát tức thì.\n- Animation quét nguồn thời gian thực trên giao diện native của máy chiếu với badge server và thanh tiến trình.\n- Khắc phục triệt để hiện tượng màn hình đen ở một số bộ phim, tối ưu SurfaceView và tự động trích xuất nguồn đa embed."
 }
