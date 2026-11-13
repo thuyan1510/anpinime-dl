@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.8.0",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.8.0/AnPinime-K670Pro.apk",
-  "changelog": "Bản cập nhật v1.8.0:\n- Chuyển đổi hoàn toàn sang kiến trúc Native Aether Resolver 100%, không còn phụ thuộc WebView.\n- Kết nối và quét tự động qua hơn 10 nguồn scraper của Aether: Lul (1080p), Lil (1080p), Edge (Ly 1080p fMP4), Meridian (1080p), VidRock (1080p/720p), Shore (1080p), Tik (1080p), Tiki (360p), VFast (Supreme 4K, Euro, Prime 4K, Zenith), Filler.\n- Khắc phục triệt để lỗi màn hình đen / có tiếng mất hình bằng cấu hình header (Origin/Referer) và proxy m3u8 chuẩn cho từng máy chủ.\n- Tích hợp kho phụ đề Tiếng Việt và đa ngôn ngữ tự động từ OpenSubtitles và sub.vdrk.site.\n- Menu đổi server hiển thị các máy chủ tải phim thực tế của Aether, cho phép chuyển đổi nguồn phát tức thì."
+  "versionCode": 16,
+  "versionName": "1.8.1",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.8.1/AnPinime-K670Pro.apk",
+  "changelog": "v1.8.1: Sửa lỗi đứng hình 3s (LoadControl + HLS extractor), chỉ giữ domain Aether hoạt động (✅) và phát 100% Native không chuyển trang web, sửa nguồn Lul/Ly/Lil/Rock (TV & Movie), khôi phục phụ đề OpenSubtitles/VDRK/Ly và dịch sub Việt native."
 }
