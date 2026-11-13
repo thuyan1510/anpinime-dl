@@ -1,6 +1,7 @@
 {
-  "versionCode": 16,
-  "versionName": "1.8.1",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.8.1/AnPinime-K670Pro.apk",
-  "changelog": "v1.8.1: Sửa lỗi đứng hình 3s (LoadControl + HLS extractor), chỉ giữ domain Aether hoạt động (✅) và phát 100% Native không chuyển trang web, sửa nguồn Lul/Ly/Lil/Rock (TV & Movie), khôi phục phụ đề OpenSubtitles/VDRK/Ly và dịch sub Việt native."
+  "versionCode": 17,
+  "versionName": "1.9.0",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.0/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.0/AnPinime-Phone.apk",
+  "changelog": "v1.9.0: Dịch phụ đề Việt tức thì 2 pha (không load lại video), sửa nguồn AnimeVietsub (lấy tập & phát video), fix lag NguonC bằng Native StreamC + FilmMediaRelay keep-alive, nâng cấp giao diện Phim4K hiện đại cho Điện thoại (dọc) & TV/Máy chiếu (ngang)."
 }
