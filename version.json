@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.9.1",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.1/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.1/AnPinime-Phone.apk",
-  "changelog": "v1.9.1: Tăng tốc dịch phụ đề tức thì theo Aether Web (translateHtml batch 80 câu + cache + sửa kẹt/mất sub khi chọn ngôn ngữ), sửa nguồn AnimeVietsub (Cloudflare, lọc bình luận/4K/1080p lấy đúng số tập, đồng bộ cookie/UA phát video)."
+  "versionCode": 19,
+  "versionName": "1.9.2",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.2/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.2/AnPinime-Phone.apk",
+  "changelog": "v1.9.2: Sửa triệt để lỗi mất phụ đề sau khi dịch xong (đồng bộ toàn bộ các batch dịch vào bộ nhớ phát & fallback thông minh) và nâng cấp toàn bộ giao diện trình phát video chuẩn Phim4K (thanh tua trên hàng nút gọn gàng, bảng Chọn Tập/Server trượt bên phải, chạm đúp +/-10s, tối ưu cho cả Điện thoại & TV)."
 }
