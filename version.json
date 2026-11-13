@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.0/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.0/AnPinime-Phone.apk",
-  "changelog": "v1.9.0: Dịch phụ đề Việt tức thì 2 pha (không load lại video), sửa nguồn AnimeVietsub (lấy tập & phát video), fix lag NguonC bằng Native StreamC + FilmMediaRelay keep-alive, nâng cấp giao diện Phim4K hiện đại cho Điện thoại (dọc) & TV/Máy chiếu (ngang)."
+  "versionCode": 18,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.1/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.1/AnPinime-Phone.apk",
+  "changelog": "v1.9.1: Tăng tốc dịch phụ đề tức thì theo Aether Web (translateHtml batch 80 câu + cache + sửa kẹt/mất sub khi chọn ngôn ngữ), sửa nguồn AnimeVietsub (Cloudflare, lọc bình luận/4K/1080p lấy đúng số tập, đồng bộ cookie/UA phát video)."
 }
