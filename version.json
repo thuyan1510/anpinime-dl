@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.9.2",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.2/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.2/AnPinime-Phone.apk",
-  "changelog": "v1.9.2: Sửa triệt để lỗi mất phụ đề sau khi dịch xong (đồng bộ toàn bộ các batch dịch vào bộ nhớ phát & fallback thông minh) và nâng cấp toàn bộ giao diện trình phát video chuẩn Phim4K (thanh tua trên hàng nút gọn gàng, bảng Chọn Tập/Server trượt bên phải, chạm đúp +/-10s, tối ưu cho cả Điện thoại & TV)."
+  "versionCode": 20,
+  "versionName": "1.9.3",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.3/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.3/AnPinime-Phone.apk",
+  "changelog": "v1.9.3: Sửa lỗi hỗ trợ phụ đề .srt (OkHttp/CookieJar tải OpenSubtitles/VDRK, tự giải nén GZIP & nhận diện bảng mã UTF-8/UTF-16/Windows-1258, chuẩn hóa cue .srt, thêm nút chọn file .srt/.vtt/.ass từ máy); đổi danh sách Chọn Nguồn Phát / Server sang hộp thoại dọc đồng bộ với Phụ đề & Âm thanh giúp điều khiển máy chiếu dễ dàng hơn."
 }
