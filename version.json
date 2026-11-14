@@ -1,7 +1,7 @@
 {
-  "versionCode": 20,
-  "versionName": "1.9.3",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.3/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.3/AnPinime-Phone.apk",
-  "changelog": "v1.9.3: Sửa lỗi hỗ trợ phụ đề .srt (OkHttp/CookieJar tải OpenSubtitles/VDRK, tự giải nén GZIP & nhận diện bảng mã UTF-8/UTF-16/Windows-1258, chuẩn hóa cue .srt, thêm nút chọn file .srt/.vtt/.ass từ máy); đổi danh sách Chọn Nguồn Phát / Server sang hộp thoại dọc đồng bộ với Phụ đề & Âm thanh giúp điều khiển máy chiếu dễ dàng hơn."
+  "versionCode": 21,
+  "versionName": "1.9.4",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.4/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.4/AnPinime-Phone.apk",
+  "changelog": "v1.9.4: Sửa lỗi nguồn Tú Nam (StreamC r25 / WebView fallback) hết giật lag & mất hình; sửa nguồn Anime dùng API đa máy chủ mượt mà tránh Cloudflare; đổi tên hiển thị Tú Nam, Thúy An, Cốm; nâng cấp giao diện tone đen đỏ đồng bộ và tối ưu các nút điều khiển trình phát kèm nhãn chữ rõ ràng."
 }
