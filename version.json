@@ -1,7 +1,7 @@
 {
-  "versionCode": 22,
-  "versionName": "1.9.5",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.5/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.5/AnPinime-Phone.apk",
-  "changelog": "v1.9.5: Khôi phục nguồn Anime về AnimeVietsub chuẩn gốc (sửa lỗi tràn stack Next.js và xử lý domain/Cloudflare); sửa lỗi phát màn hình đen/giật lag cho Tú Nam (StreamC), Thúy An (Lul/Ly/Lil/VidRock/Shore qua FilmMediaRelay & HLS PMT probe) và Cốm (WebView fallback khi link_m3u8 lỗi 404); giữ nguyên tên nguồn Tú Nam, Thúy An, Cốm và tone đen đỏ."
+  "versionCode": 23,
+  "versionName": "1.9.6",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.6/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.6/AnPinime-Phone.apk",
+  "changelog": "v1.9.6: Sửa dứt điểm lỗi AnimeVietsub bắt xác minh WebView (đồng bộ logic bỏ qua captcha bình luận & xác minh ngầm như iOS, đồng bộ Client Hints Chrome); sửa lỗi nguồn Cốm (KKPhim) không tải/phát được phim (mở giới hạn luồng ioPool, tự động retry & tối ưu bộ giải mã HLS); thêm thanh cuộn mượt cho Menu bên trái trên bản TV/Máy chiếu."
 }
