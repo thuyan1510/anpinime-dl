@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.9.7",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.7/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.7/AnPinime-Phone.apk",
-  "changelog": "v1.9.7: Tích hợp nguồn mới Anime Miruro (Nguồn 5, ngay dưới AnimeVietsub) đầy đủ Trang chủ, Tìm kiếm, Danh mục/Thể loại và Chi tiết tập phim; tự động chuyển đổi nguồn dự phòng trong sourcesData (sun/bee/hop/...) khi nguồn trước lỗi; ưu tiên tự động tải phụ đề Tiếng Việt (hỗ trợ header Origin/Referer và ASS/VTT), tự động bật Dịch AI sang Tiếng Việt và hiển thị trực tiếp nếu tập phim chưa có sub Việt."
+  "versionCode": 25,
+  "versionName": "1.9.8",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.8/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.8/AnPinime-Phone.apk",
+  "changelog": "v1.9.8: Tăng tốc tải nguồn Anime Miruro rõ rệt (gom tải song song trong WebView giữ ấm, cache Trang chủ/Chi tiết, dò song song 3 server sourcesData); loại bỏ hoàn toàn nguồn AnimeVietsub; sửa lỗi nút Play và Tua lùi bị cắt viền trên thanh điều khiển trình phát; đồng bộ hiển thị tên nguồn chính xác là Tú Nam, Thúy An, Cốm và Anime Miruro."
 }
