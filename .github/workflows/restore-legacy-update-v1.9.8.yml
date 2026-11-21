@@ -1,0 +1,41 @@
+name: Restore legacy OTA metadata v1.9.8
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/restore-legacy-update-v1.9.8.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  restore-latest-asset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out update metadata
+        uses: actions/checkout@v4
+
+      - name: Validate v1.9.8 update metadata
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json
+          with open("version.json", encoding="utf-8") as f:
+              info = json.load(f)
+          assert info["versionName"] == "1.9.8", "Unexpected versionName"
+          assert info["versionCode"] == 25, "Unexpected versionCode"
+          assert "/releases/download/v1.9.8/" in info["apkUrl"], "Unexpected APK URL"
+          assert "/releases/download/v1.9.8/" in info["phoneApkUrl"], "Unexpected phone APK URL"
+          print("Validated OTA v1.9.8")
+          PY
+
+      - name: Restore version.json attached to the fixed latest release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          gh release view latest --repo "$GITHUB_REPOSITORY" >/dev/null
+          gh release upload latest version.json --clobber --repo "$GITHUB_REPOSITORY"
+          echo "Restored latest/version.json; APK assets are untouched."
