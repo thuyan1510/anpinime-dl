@@ -1,7 +1,7 @@
 {
-  "versionCode": 25,
-  "versionName": "1.9.8",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.8/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.8/AnPinime-Phone.apk",
-  "changelog": "v1.9.8: Tăng tốc tải nguồn Anime Miruro rõ rệt (gom tải song song trong WebView giữ ấm, cache Trang chủ/Chi tiết, dò song song 3 server sourcesData); loại bỏ hoàn toàn nguồn AnimeVietsub; sửa lỗi nút Play và Tua lùi bị cắt viền trên thanh điều khiển trình phát; đồng bộ hiển thị tên nguồn chính xác là Tú Nam, Thúy An, Cốm và Anime Miruro."
+  "versionCode": 28,
+  "versionName": "1.9.11",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.11/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.11/AnPinime-Phone.apk",
+  "changelog": "Máy chiếu K670 Pro: cố định tỷ lệ giao diện TV, hiển thị 7 poster mỗi hàng, đưa nút Xem ngay và tập phim lên màn hình đầu. Giảm tải ảnh và thay intro video trên TV bằng logo nhỏ. Dùng lại bộ xử lý nguồn và trình phát gốc từ 1.9.8."
 }
