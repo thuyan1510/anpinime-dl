@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "1.9.11",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.11/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.11/AnPinime-Phone.apk",
-  "changelog": "Máy chiếu K670 Pro: cố định tỷ lệ giao diện TV, hiển thị 7 poster mỗi hàng, đưa nút Xem ngay và tập phim lên màn hình đầu. Giảm tải ảnh và thay intro video trên TV bằng logo nhỏ. Dùng lại bộ xử lý nguồn và trình phát gốc từ 1.9.8."
+  "versionCode": 29,
+  "versionName": "1.9.12",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.12/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.12/AnPinime-Phone.apk",
+  "changelog": "Khôi phục video intro V4. Nút Trở về trên remote mở menu tại nguồn đang xem. Thêm nút Tắt ứng dụng, sửa viền chọn poster và popup, cho phép quay về banner và tự tải thêm phim trong Danh mục, Tìm kiếm."
 }
