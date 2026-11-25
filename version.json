@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.9.12",
-  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.12/AnPinime-K670Pro.apk",
-  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.12/AnPinime-Phone.apk",
-  "changelog": "Khôi phục video intro V4. Nút Trở về trên remote mở menu tại nguồn đang xem. Thêm nút Tắt ứng dụng, sửa viền chọn poster và popup, cho phép quay về banner và tự tải thêm phim trong Danh mục, Tìm kiếm."
+  "versionCode": 30,
+  "versionName": "1.9.13",
+  "apkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.13/AnPinime-K670Pro.apk",
+  "phoneApkUrl": "https://github.com/thuyan1510/anpinime-dl/releases/download/v1.9.13/AnPinime-Phone.apk",
+  "changelog": "Nút quay lại chỉ mở menu ở Trang chủ, trong phim và thông tin phim quay lại trang trước. Banner trang chủ tràn viền lên sát mép trên và tự chuyển sau mỗi 3 giây. Sửa điều hướng tới các nút Xem tất cả. Loại bỏ biểu tượng lỗi trước video intro và tăng kích thước intro. Tối ưu bộ nhớ đệm, nén ảnh thumbnail và tăng độ mượt tải card phim ở Trang chủ."
 }
